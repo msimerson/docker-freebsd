@@ -1,7 +1,7 @@
 # docker-freebsd
 
 [![License](https://img.shields.io/github/license/uchida/docker-freebsd.svg?maxAge=2592000)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal)
-[![ImageLayers Layers](https://imagelayers.io/badge/auchida/freebsd:10.svg)](https://imagelayers.io/?images=auchida%2Ffreebsd:10)
+[![MicroBadger](https://images.microbadger.com/badges/image/auchida/freebsd.svg)](http://microbadger.com/images/auchida/freebsd)
 
 FreeBSD Docker image from distribution archive.
 
