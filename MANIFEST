@@ -1,7 +1,10 @@
-base.txz	e7c4c961694e34b2b60598d9668a185b5de1c6241bedfc4891cd9ea8fbff2dc4	19949	base	"Base system (MANDATORY)"	on
-doc.txz	9c12797809cbef2f99a392432ad3f0407fed537856e10157f96afb47e7c1307c	121	doc	"Additional documentation"	off
-games.txz	e9210573ad5aef0a4c1a08cdda1cafdda99f4b9fc92ed6c5dfa61a30daf63fb7	53	games	"Games (fortune, etc.)"	on
-kernel.txz	dfb652cfe67adb705c4ac0b2a2bd8671d786137132adc4e6a55c2b18fe05a704	1550	kernel	"Kernel (MANDATORY)"	on
-lib32.txz	e9faa712618ee88f0306f5d31abe3069fad0f15028ae9900b68e01c369eeff4a	687	lib32	"32-bit compatibility libraries"	on
-ports.txz	2e4b1a328885ede0e8b279ca4dffcdf7f81ee51abef5acc44549ccb8512bb196	157722	ports	"Ports tree"	on
-src.txz	f50763dcac88e9b7ec616b77d537bf338f470350e2c85e0cc7decfcc8372b54d	70682	src	"System source code"	off
+base-dbg.txz	956f11373e40466bad063069c653cef8dd817d7e0fa160bca175d2dc269a7305	1406	base_dbg	"Base system (Debugging)"	off
+base.txz	31f79c6e9d99b888df49b97610b1f32857626f1a410982043b32405245d0b023	22029	base	"Base system (MANDATORY)"	on
+doc.txz	08a14157f8bce5b4eea1ef87d3306a4993fc929f88221a3bd34800747afd07a2	120	doc	"Additional Documentation"	off
+kernel-dbg.txz	024bfe491cdf11139509aaeb3b4b63e0367461a1e4bf46519f6d33627ca0d36c	817	kernel_dbg	"Kernel (Debugging)"	off
+kernel.txz	ffe76643ead8cd3d00ba025f25211628a0f87e22fd2c8715ccefaf32b1c3e49e	826	kernel	"Kernel (MANDATORY)"	on
+lib32-dbg.txz	de611efa60b7209e0a4b120dcc1e06544eb59430fcc094e683fac8e82b56a197	207	lib32_dbg	"32-bit compatibility libraries (Debugging)"	off
+lib32.txz	234b3d11f82d03663340c27adb1430f48b0d2faaaeeaa80d1d10fec49d1d7511	725	lib32	"32-bit compatibility libraries"	on
+ports.txz	eb2c4820774a3d56cfa53f51cf4eba7e5eb0ed184d5b9d75daf655cbfb2c3bb4	161250	ports	"Ports tree"	on
+src.txz	faaab4f70862f9a7cad781544516094298441b75230a02c45f6e19fbc5f888ba	76924	src	"System source tree"	off
+tests.txz	c8f74bf6c55977f41b80a40321f4aa618f0a98c3b15caf0c19f493b0118ae0e4	3480	tests	"Test suite"	off
