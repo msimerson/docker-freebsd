@@ -1,10 +1,10 @@
-base-dbg.txz	015aa9c5dc913f4310622358dcdfda1f1a96ce9a24e22ee66bc99aca8c09b5af	1406	base_dbg	"Base system (Debugging)"	off
-base.txz	bb80ededf207c48122434833b83110225b798fb31273051fcb64316ff782c1ef	22029	base	"Base system (MANDATORY)"	on
-doc.txz	9093c8697a3357e0d374d57f49d9c5396ae70664fe35795348321d5ccd6ecd29	120	doc	"Additional Documentation"	off
-kernel-dbg.txz	8c8f38cfbcc5061005897b186de746f868279f40b90059d951d0258e66ba5207	817	kernel_dbg	"Kernel (Debugging)"	off
-kernel.txz	da3701cd487945803ce83c6b7e4a953da14e77dab3f0516895b99dd8f4e54477	826	kernel	"Kernel (MANDATORY)"	on
-lib32-dbg.txz	e97fc0ca9ba8100529bd39f8f2ba3c53cf17040bd0958df9cfffb3af0bffe536	207	lib32_dbg	"32-bit compatibility libraries (Debugging)"	off
-lib32.txz	aaa945c7a486c80ade85ba1e2f4c6681178adb73f74543325dd1c327fc787661	725	lib32	"32-bit compatibility libraries"	on
-ports.txz	1d272667eb39b0eb6ea5b891bf931af129a8150a69ee920a976e0fd79f775b31	161250	ports	"Ports tree"	on
-src.txz	0725a7f1d3e8985f4b2e31a2ad714334463a5016b203073a8fc196649f3d5a27	76924	src	"System source tree"	off
-tests.txz	acf6e5dd5611c824a947baa481eb6898725a099a5b65f9dc95e2f660a027b861	3480	tests	"Test suite"	off
+base-dbg.txz	5ee0f142ecd6da27cd9772f0f62715e88f75b413d24bb81a99f59330afffa8d7	49166232	base_dbg	"Base system (Debugging)"	off
+base.txz	62acaee7e7c9df66ee2c0c2d533d1da0ddf67d32833bc4b77d935ddd9fe27dab	104780108	base	"Base system (MANDATORY)"	on
+doc.txz	27371ae33db3160be50be542813c23e274f83eda5e80456e53885a3c081b4bcb	1428656	doc	"Additional Documentation"	off
+kernel-dbg.txz	0d854963b3a819f976963332ae5fc2fe6fa7cc9e805df6cc881d036159c447d3	66586424	kernel_dbg	"Kernel (Debugging)"	off
+kernel.txz	b7adc3077cb7145c0567954ad1f13a1a3d37c564cdf7cea4c1204819b78ecb30	36773692	kernel	"Kernel (MANDATORY)"	on
+lib32-dbg.txz	7e381d5a13618ab58b77d598b2ebe2276c007797165fe943fcd0be8d9eb403d5	12555216	lib32_dbg	"32-bit compatibility libraries (Debugging)"	off
+lib32.txz	0665bce64a61eb6e508cddf2548609653a42f5c19a849c855e63e6dc2c1fb259	18499068	lib32	"32-bit compatibility libraries"	on
+ports.txz	d49fd6a9da7052dec18df5e6bdec84e4650e3fc4564d3f7331c4917a99b27efa	36756836	ports	"Ports tree"	on
+src.txz	7e1186c2b3f6d070995b88bef5aded34089fed227c7b584c30b28cecaf428154	147661560	src	"System source tree"	off
+tests.txz	9eb35743fed494ebba315687a9b6aaf7ef5ea5a90a686f687a761ee5472956fa	4312456	tests	"Test suite"	off
