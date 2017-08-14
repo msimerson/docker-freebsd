@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 set -eux -o pipefail
 
+# shellcheck disable=1091
 . VERSION
 
 url_get() {
@@ -18,6 +19,7 @@ DISTS="base lib32"
 
 WORKDIR=$(dirname "$(pwd)/$0")
 pushd "$WORKDIR"
+  url_get "https://download.freebsd.org/ftp/releases/amd64/${RELVER}/MANIFEST"
   for dist in $DISTS; do
     SHA256SUM_WANTS=$(awk "/^${dist}.txz/ {print \$2}" MANIFEST)
     url_get "https://download.freebsd.org/ftp/releases/amd64/${RELVER}/${dist}.txz"
